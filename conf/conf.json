@@ -1,0 +1,12 @@
+{
+  "port" : 3000,
+  "database" : {
+    "User" : "postgres",
+    "Host" : "localhost",
+    "Database" : "demarque",
+    "Schema" : "public",
+    "Password" : "150353",
+    "Port" : 5432
+  },
+  "jwtpath" : "X:/Demarque/api-demarque/conf/jwt"
+}
